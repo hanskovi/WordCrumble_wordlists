@@ -17,6 +17,6 @@ Modified by ConceptCraft, 2026-10-12:
 - Stems starting with a capital (proper names, abbreviations) were left out.
 - Only words of 2 to 9 letters; accents removed (á → a, ü → u) except ñ, which is kept.
 - Removed: words without a vowel; 2-letter words that are not Spanish words on their own; a list of
-  abbreviations (e.g. dto, izq, sra, pta, etc).
+  abbreviations (e.g. dto, izq, sra, pta, etc, dpto, impr, incl, inst, coord, univ).
 
 This modified list will stay available here for at least 12 months.

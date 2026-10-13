@@ -8154,7 +8154,6 @@ admitirte
 admitis
 admitiste
 admito
-admon
 adoba
 adobaba
 adobabais
@@ -29151,7 +29150,6 @@ arsenioso
 arsenito
 arsenitos
 arseniuro
-art
 arte
 artefacto
 artejo
@@ -40853,7 +40851,6 @@ bezudos
 biberon
 biberones
 bibijagua
-bibl
 biblia
 biblias
 biblica
@@ -48519,7 +48516,6 @@ caotica
 caoticas
 caotico
 caoticos
-cap
 capa
 capaba
 capabais
@@ -61964,7 +61960,6 @@ cooptemos
 coopten
 cooptes
 coopto
-coord
 coordina
 coordinad
 coordinan
@@ -64861,7 +64856,6 @@ cruzasen
 cruzases
 cruzaste
 cruzo
-ctvo
 cu
 cuaderna
 cuadernal
@@ -69472,7 +69466,6 @@ deprimire
 deprimis
 deprimo
 deprisa
-depto
 depuesta
 depuestas
 depuesto
@@ -76284,7 +76277,6 @@ diafanos
 diafragma
 diafragme
 diafragmo
-diag
 diagnosis
 diagonal
 diagrama
@@ -76492,7 +76484,6 @@ dibujes
 dibujo
 dibujos
 dicacidad
-dicc
 diccion
 dicciones
 dice
@@ -79788,7 +79779,6 @@ doñegales
 doñeo
 doñigal
 doñigales
-dpto
 draba
 drabas
 dracma
@@ -80708,7 +80698,6 @@ edilicias
 edilicio
 edilicios
 edilidad
-edit
 edita
 editaba
 editabais
@@ -106454,7 +106443,6 @@ fiestera
 fiesteras
 fiestero
 fiesteros
-fig
 figle
 figles
 figo
@@ -113117,7 +113105,6 @@ geodesica
 geodesico
 geofisica
 geofisico
-geogr
 geografa
 geografas
 geografia
@@ -113131,7 +113118,6 @@ geologica
 geologico
 geologo
 geologos
-geom
 geometra
 geometras
 geometria
@@ -117007,7 +116993,6 @@ guzlas
 guzman
 guzmanes
 ha
-hab
 haba
 habada
 habadas
@@ -123481,7 +123466,6 @@ impostora
 impostura
 impotable
 impotente
-impr
 impreca
 imprecaba
 imprecad
@@ -123903,7 +123887,6 @@ incites
 incito
 incivil
 inciviles
-incl
 inclina
 inclinaba
 inclinad
@@ -126195,7 +126178,6 @@ inspiren
 inspires
 inspirese
 inspiro
-inst
 insta
 instaba
 instabais
@@ -134638,7 +134620,6 @@ librillo
 librillos
 libro
 libros
-lic
 licaon
 licaones
 licencia
@@ -136677,7 +136658,6 @@ lobuna
 lobunas
 lobuno
 lobunos
-loc
 loca
 locacion
 local
@@ -157896,7 +157876,6 @@ pagodas
 pagos
 pagro
 pagros
-pags
 pague
 pagueis
 paguela
@@ -170448,7 +170427,6 @@ proemio
 proemios
 proeza
 proezas
-prof
 profa
 proface
 profaceis
@@ -171080,7 +171058,6 @@ prototipo
 protozoo
 protozoos
 protutor
-prov
 provagar
 provea
 proveais
@@ -180101,7 +180078,6 @@ refutemos
 refuten
 refutes
 refuto
-reg
 regaba
 regabais
 regabamos
@@ -183786,7 +183762,6 @@ reoriento
 reos
 reostato
 reostatos
-rep
 repace
 repaced
 repaceis
@@ -187712,7 +187687,6 @@ reusenses
 reutilice
 reutiliza
 reutilizo
-rev
 revacuna
 revacunad
 revacunan
@@ -197477,7 +197451,6 @@ sifilis
 sifon
 sifones
 sifosis
-sig
 siga
 sigais
 sigala
@@ -199060,7 +199033,6 @@ sobrinos
 sobrio
 sobrios
 sobro
-soc
 soca
 socaces
 socaire
@@ -215356,7 +215328,6 @@ unitiva
 unitivas
 unitivo
 unitivos
-univ
 univalva
 univalvas
 univalvo

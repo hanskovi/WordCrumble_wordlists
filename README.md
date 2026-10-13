@@ -11,9 +11,9 @@ so they include all inflected forms (plurals, conjugations), like Scrabble or Wo
 |---|---|---|---|---|
 | `nl/` | Dutch | 100,556 | OpenTaal word list | CC BY 3.0 |
 | `en/` | English | 105,241 | ENABLE | public domain |
-| `de/` | German | 171,826 | DEMorphy German morphological dictionary | CC BY-SA 4.0 |
-| `fr/` | French | 162,721 | Grammalecte lexicon v7.7 | MPL 2.0 |
-| `es/` | Spanish | 223,820 | RLA-ES Hunspell dictionary | MPL 1.1 |
+| `de/` | German | 171,794 | DEMorphy German morphological dictionary | CC BY-SA 4.0 |
+| `fr/` | French | 162,636 | Grammalecte lexicon v7.7 | MPL 2.0 |
+| `es/` | Spanish | 223,791 | RLA-ES Hunspell dictionary | MPL 1.1 |
 
 Every folder has a `NOTICE.md` with the exact source, the authors, the license and a description
 of the changes, plus the license text where the license asks for it.

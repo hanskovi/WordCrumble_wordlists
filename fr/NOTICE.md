@@ -20,4 +20,5 @@ line by line by the game.)
   punctuation, prefix, suffix, error or "div" (tags npr, prn, patr, titr, nbro, sign, ponc, pfx,
   sfx, err, div); words with capitals, hyphens, apostrophes or spaces; words without a vowel
   (except some interjections); 2-letter words that are not French words on their own; a list of
-  unit symbols and abbreviations (e.g. atm, dpi, ppm, mlm).
+  unit symbols and abbreviations (e.g. atm, dpi, ppm, mlm, bibl, dacd); ordinals in Roman numerals
+  (e.g. iiie, xviie).

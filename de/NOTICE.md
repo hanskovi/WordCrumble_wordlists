@@ -12,7 +12,8 @@ https://creativecommons.org/licenses/by-sa/4.0/ — full text in `LICENSE-CC-BY-
 ## Changes by ConceptCraft (2026-10-12)
 - Only the word forms (the morphological analyses are left out), written in lower case.
 - Only words of 2 to 9 letters (a–z plus ä, ö, ü); ß written as ss.
-- Removed: forms that only have a proper-noun analysis (NNP); abbreviations (all capitals);
+- Removed: forms that only have a proper-noun analysis (NNP); abbreviations (all capitals, or more
+  than one capital letter such as CPUs, EKGs, BPatG);
   words without a vowel (except the interjections hm, hmm, mhm, brr, grr, pst, psst, sch, pfft);
   2-letter words that are not German words on their own; a short list of other abbreviations
   (e.g. abc, afd, mio).
