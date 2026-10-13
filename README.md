@@ -26,5 +26,11 @@ The game uses letter tiles A–Z. Following Wordfeud:
 - Spanish: accents are removed, but ñ is kept.
 - German: ä, ö and ü are kept, ß is written as ss.
 
+## Correct spelling (display files)
+For the printable word lists in the game, the folders `nl/`, `de/`, `fr/` and `es/` also contain
+`wordcrumble_display_XX.txt`: per word of the list whose correct spelling differs from the game
+spelling, a line `game word<TAB>correct spelling` (e.g. `arbol` → `árbol`, `strasse` → `Straße`,
+`si` → `si / sí`). English needs no such file. Same license as the list in that folder.
+
 ## Contact
 Questions or corrections: via www.conceptcraft.nl

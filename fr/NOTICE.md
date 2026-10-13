@@ -22,3 +22,7 @@ line by line by the game.)
   (except some interjections); 2-letter words that are not French words on their own; a list of
   unit symbols and abbreviations (e.g. atm, dpi, ppm, mlm, bibl, dacd); ordinals in Roman numerals
   (e.g. iiie, xviie).
+
+## Correct spelling file
+**File:** `wordcrumble_display_FR.txt` (added 2026-10-13), made by ConceptCraft from the same source.
+One line per word of the list whose correct spelling differs from the game spelling: `game word<TAB>correct spelling`, for accents and œ (foret → foret / forêt, coeur → cœur); verb forms in è used only before "-je" are left out. When more than one spelling exists, all are given, separated by " / ". Used for the printable word lists (PDF) in the game. Same license as the word list above.

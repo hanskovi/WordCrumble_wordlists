@@ -20,3 +20,7 @@ OpenTaal is not involved in WordCrumble and does not endorse it.
   abbreviations with an 's-plural (e.g. apk's, azc's); a list of other abbreviations (months, units,
   school types and the like); and some short words that are not Dutch words on their own.
 - Added by hand: at, va.
+
+## Correct spelling file
+**File:** `wordcrumble_display_NL.txt` (added 2026-10-13), made by ConceptCraft from the same source.
+One line per word of the list whose correct spelling differs from the game spelling: `game word<TAB>correct spelling`, for accents and diaeresis (cafe → café, ideeen → ideeën). When more than one spelling exists, all are given, separated by " / ". Used for the printable word lists (PDF) in the game. Same license as the word list above.

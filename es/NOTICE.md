@@ -19,4 +19,8 @@ Modified by ConceptCraft, 2026-10-12:
 - Removed: words without a vowel; 2-letter words that are not Spanish words on their own; a list of
   abbreviations (e.g. dto, izq, sra, pta, etc, dpto, impr, incl, inst, coord, univ).
 
+## Correct spelling file
+**File:** `wordcrumble_display_ES.txt` (added 2026-10-13), made by ConceptCraft from the same source.
+One line per word of the list whose correct spelling differs from the game spelling: `game word<TAB>correct spelling`, for accents (arbol → árbol, si → si / sí). When more than one spelling exists, all are given, separated by " / ". Used for the printable word lists (PDF) in the game. Same license as the word list above.
+
 This modified list will stay available here for at least 12 months.
