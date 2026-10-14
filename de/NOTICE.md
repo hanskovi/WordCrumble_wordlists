@@ -17,6 +17,7 @@ https://creativecommons.org/licenses/by-sa/4.0/ — full text in `LICENSE-CC-BY-
   words without a vowel (except the interjections hm, hmm, mhm, brr, grr, pst, psst, sch, pfft);
   2-letter words that are not German words on their own; a short list of other abbreviations
   (e.g. abc, afd, mio).
+- Removed by hand (2026-10-14): hm.
 
 ## Correct spelling file
 **File:** `wordcrumble_display_DE.txt` (added 2026-10-13), made by ConceptCraft from the same source.

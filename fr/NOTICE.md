@@ -22,6 +22,7 @@ line by line by the game.)
   (except some interjections); 2-letter words that are not French words on their own; a list of
   unit symbols and abbreviations (e.g. atm, dpi, ppm, mlm, bibl, dacd); ordinals in Roman numerals
   (e.g. iiie, xviie).
+- Removed by hand (2026-10-14): hm.
 
 ## Correct spelling file
 **File:** `wordcrumble_display_FR.txt` (added 2026-10-13), made by ConceptCraft from the same source.

@@ -16,10 +16,11 @@ OpenTaal is not involved in WordCrumble and does not endorse it.
 - Only words of 2 to 9 letters, a–z only.
 - Accents removed (café → cafe, ruïne → ruine), as in Scrabble and Wordfeud.
 - Removed: words with capitals (proper names, abbreviations), hyphens, apostrophes, spaces, dots or digits;
-  words without a vowel (except the interjections brr, hm, mmm, pst, st, tss, zzz);
+  words without a vowel (except the interjections brr, mmm, pst, tss, zzz);
   abbreviations with an 's-plural (e.g. apk's, azc's); a list of other abbreviations (months, units,
   school types and the like); and some short words that are not Dutch words on their own.
 - Added by hand: at, va.
+- Removed by hand (2026-10-14): aa (in Dutch only a river name), hm, st.
 
 ## Correct spelling file
 **File:** `wordcrumble_display_NL.txt` (added 2026-10-13), made by ConceptCraft from the same source.

@@ -11,3 +11,4 @@ https://sources.debian.org/src/scowl/6-2/r/enable/README)
 
 ## Changes by ConceptCraft (2026-10-12)
 - Only words of 2 to 9 letters, a–z only.
+- Removed by hand (2026-10-14): hm.
