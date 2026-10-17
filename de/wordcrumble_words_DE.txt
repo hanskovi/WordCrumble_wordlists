@@ -551,7 +551,6 @@ abchecket
 abcheckst
 abcheckt
 abcheckte
-abcs
 abdachte
 abdachten
 abdachtet
@@ -11479,7 +11478,6 @@ aplomb
 aplombs
 apnoe
 apnoezeit
-apo
 apogäum
 apogäums
 apokryph
@@ -12168,7 +12166,6 @@ asexuell
 asexuelle
 ashram
 ashrams
-asi
 asiat
 asiate
 asiaten
@@ -82279,8 +82276,6 @@ kanadiers
 kanadisch
 kanaille
 kanaillen
-kanake
-kanaken
 kanakin
 kanal
 kanalaue
@@ -97479,7 +97474,6 @@ maar
 maare
 maasai
 maat
-mac
 macaus
 macchia
 macchie
@@ -106896,7 +106890,6 @@ nietzange
 nietöse
 nietösen
 niger
-nigger
 niggerin
 niggern
 niggers
@@ -132890,7 +132883,6 @@ spassten
 spasstest
 spasstet
 spasstour
-spasti
 spastis
 spaten
 spatens
@@ -161006,7 +160998,6 @@ wichsen
 wichsend
 wichsende
 wichsens
-wichser
 wichserei
 wichsest
 wichset
@@ -163799,7 +163790,6 @@ xanthin
 xanthins
 xanthippe
 xanthom
-xbox
 xenie
 xenien
 xenismen
@@ -171078,7 +171068,6 @@ zürntet
 ösenknopf
 ösenmuffe
 ösenzange
-ösi
 ösiland
 ösophagus
 österlich

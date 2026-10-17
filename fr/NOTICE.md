@@ -23,6 +23,8 @@ line by line by the game.)
   unit symbols and abbreviations (e.g. atm, dpi, ppm, mlm, bibl, dacd); ordinals in Roman numerals
   (e.g. iiie, xviie).
 - Removed by hand (2026-10-14): hm.
+- Removed by hand (2026-10-17): unit symbols with a prefix (acal … zvar, kcal, mmol, mbar, kbit, qbit and the like,
+  78 in total); abbreviations oct, nov, dec, ibid, fig, dyn, div, ref; slurs bougnoule, youpin, pede, pedes, encule.
 
 ## Correct spelling file
 **File:** `wordcrumble_display_FR.txt` (added 2026-10-13), made by ConceptCraft from the same source.

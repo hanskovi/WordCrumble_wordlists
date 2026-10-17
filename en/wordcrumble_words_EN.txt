@@ -16055,13 +16055,11 @@ chine
 chined
 chines
 chining
-chink
 chinkapin
 chinked
 chinkier
 chinkiest
 chinking
-chinks
 chinky
 chinless
 chinned
@@ -19377,11 +19375,9 @@ coomb
 coombe
 coombes
 coombs
-coon
 cooncan
 cooncans
 coonhound
-coons
 coonskin
 coonskins
 coontie
@@ -22204,11 +22200,8 @@ daggles
 daggling
 daglock
 daglocks
-dago
 dagoba
 dagobas
-dagoes
-dagos
 dags
 dagwood
 dagwoods
@@ -22491,7 +22484,6 @@ darkest
 darkey
 darkeys
 darkie
-darkies
 darking
 darkish
 darkle
@@ -22506,7 +22498,6 @@ darkroom
 darkrooms
 darks
 darksome
-darky
 darling
 darlingly
 darlings
@@ -29024,8 +29015,6 @@ emeu
 emeus
 emeute
 emeutes
-emf
-emfs
 emic
 emigrant
 emigrants
@@ -38970,8 +38959,6 @@ googol
 googols
 gooier
 gooiest
-gook
-gooks
 gooky
 goombah
 goombahs
@@ -40503,14 +40490,11 @@ gyniatry
 gynoecia
 gynoecium
 gynophore
-gyp
 gyplure
 gyplures
-gypped
 gypper
 gyppers
 gypping
-gyps
 gypseian
 gypseous
 gypsied
@@ -43303,10 +43287,8 @@ honkers
 honkey
 honkeys
 honkie
-honkies
 honking
 honks
-honky
 honor
 honorable
 honorably
@@ -47451,7 +47433,6 @@ jettying
 jeu
 jeux
 jew
-jewed
 jewel
 jeweled
 jeweler
@@ -47469,7 +47450,6 @@ jewels
 jewelweed
 jewfish
 jewfishes
-jewing
 jews
 jezail
 jezails
@@ -48364,7 +48344,6 @@ kazatski
 kazatsky
 kazoo
 kazoos
-kbar
 kbars
 kea
 keas
@@ -48797,8 +48776,6 @@ kiester
 kiesters
 kif
 kifs
-kike
-kikes
 kilderkin
 kilim
 kilims
@@ -82957,7 +82934,6 @@ shrewing
 shrewish
 shrewlike
 shrews
-shri
 shriek
 shrieked
 shrieker
@@ -86414,7 +86390,6 @@ spay
 spayed
 spaying
 spays
-spaz
 spazzes
 speak
 speakable
@@ -86618,7 +86593,6 @@ sphinx
 sphinxes
 sphygmic
 sphygmus
-spic
 spica
 spicae
 spicas
@@ -86641,9 +86615,7 @@ spiciest
 spicily
 spiciness
 spicing
-spick
 spicks
-spics
 spicula
 spiculae
 spicular
@@ -87360,7 +87332,6 @@ squattest
 squattier
 squatting
 squatty
-squaw
 squawfish
 squawk
 squawked
@@ -87369,7 +87340,6 @@ squawkers
 squawking
 squawks
 squawroot
-squaws
 squeak
 squeaked
 squeaker
@@ -87483,8 +87453,6 @@ sraddha
 sraddhas
 sradha
 sradhas
-sri
-sris
 stab
 stabbed
 stabber
@@ -102467,7 +102435,6 @@ wests
 westward
 westwards
 wet
-wetback
 wetbacks
 wether
 wethers
@@ -103586,8 +103553,6 @@ woes
 woesome
 woful
 wofully
-wog
-wogs
 wok
 woke
 woken
@@ -103809,8 +103774,6 @@ wooziest
 woozily
 wooziness
 woozy
-wop
-wops
 word
 wordage
 wordages
@@ -104571,8 +104534,6 @@ yeuks
 yeuky
 yew
 yews
-yid
-yids
 yield
 yielded
 yielder

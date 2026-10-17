@@ -13442,7 +13442,6 @@ debutiez	débutiez
 debutions	débutions
 debutons	débutons
 debuts	débuts
-dec	déc
 deca	deçà / déca
 decabla	décâbla
 decablai	décâblai
@@ -27173,7 +27172,6 @@ encryptes	encryptes / encryptés
 enculames	enculâmes
 enculat	enculât
 enculates	enculâtes
-encule	encule / enculé
 enculee	enculée
 enculees	enculées
 encules	encules / enculés
@@ -47160,7 +47158,6 @@ pedant	pédant
 pedante	pédante
 pedantes	pédantes
 pedants	pédants
-pede	pédé
 pedege	pédégé
 pedegee	pédégée
 pedegees	pédégées
@@ -47168,7 +47165,6 @@ pedegere	pédégère
 pedegeres	pédégères
 pedeges	pédégés
 pederaste	pédéraste
-pedes	pédés
 pedestre	pédestre
 pedestres	pédestres
 pediatre	pédiatre
@@ -53311,7 +53307,6 @@ reexpedie	réexpédie / réexpédié
 reexporta	réexporta
 reexporte	réexporte / réexporté
 reez	réez
-ref	réf
 refaconna	refaçonna
 refaconne	refaçonne / refaçonné
 refaction	réfaction

@@ -23476,7 +23476,6 @@ apañuscar
 apañuscas
 apañusco
 apañusque
-apdo
 apea
 apeaba
 apeabais
@@ -34109,7 +34108,6 @@ atruenes
 atrueno
 atta
 attas
-atte
 atto
 atuendo
 atuendos
@@ -35043,7 +35041,6 @@ avasalles
 avasallo
 avatar
 avatares
-avda
 ave
 avece
 aveceis
@@ -55470,7 +55467,6 @@ chuzazo
 chuzazos
 chuzo
 chuzos
-cia
 ciaba
 ciabais
 ciabamos
@@ -55536,7 +55532,6 @@ ciarian
 ciarias
 ciaron
 ciarse
-cias
 ciase
 ciaseis
 ciasemos
@@ -67014,9 +67009,6 @@ dañosa
 dañosas
 dañoso
 dañosos
-dcha
-dchas
-dcho
 de
 deambula
 deambulad
@@ -113768,7 +113760,6 @@ gnostica
 gnosticas
 gnostico
 gnosticos
-gob
 gobernaba
 gobernad
 gobernada
@@ -114725,7 +114716,6 @@ grajero
 grajeros
 grajo
 grajos
-gral
 grama
 gramaba
 gramabais
@@ -120326,8 +120316,6 @@ hiñis
 hiñiste
 hiñisteis
 hiño
-hnas
-hnos
 hobby
 hobbys
 hobo
@@ -127887,9 +127875,7 @@ izgonzar
 izo
 izote
 izotes
-izqda
 izqdas
-izqdo
 izquierda
 izquierdo
 ja
@@ -133264,7 +133250,6 @@ lañemos
 lañen
 lañes
 laño
-ldas
 le
 lea
 leais
@@ -137157,9 +137142,6 @@ lozanias
 lozano
 lozanos
 lozas
-ltda
-ltdas
-ltdo
 lubigante
 lubina
 lubinas
@@ -149050,7 +149032,6 @@ moñuda
 moñudas
 moñudo
 moñudos
-mtro
 mu
 muare
 muares
@@ -161045,9 +161026,6 @@ pañoles
 paños
 pañuelo
 pañuelos
-pbro
-pdta
-pdte
 pe
 pea
 peais
@@ -168791,7 +168769,6 @@ pozo
 pozos
 pozuelo
 pozuelos
-ppal
 practica
 practicad
 practican
@@ -168808,7 +168785,6 @@ praderosa
 praderoso
 prado
 prados
-pral
 prasio
 prasios
 prasma
@@ -171238,7 +171214,6 @@ psiquico
 psiquicos
 psiquis
 psiquismo
-ptas
 pu
 pua
 puaba
@@ -192575,7 +192550,6 @@ ruñemos
 ruñen
 ruñes
 ruño
-rvdo
 sabadeña
 sabadeñas
 sabadeño
@@ -195301,7 +195275,6 @@ sañudo
 sañudos
 scooter
 scooters
-sdad
 se
 sea
 seais
@@ -201478,12 +201451,8 @@ soñemos
 soño
 sport
 sports
-sras
-sres
-srta
 stand
 stands
-stas
 su
 suadir
 suajili
@@ -206091,7 +206060,6 @@ tejuela
 tejuelas
 tejuelo
 tejuelos
-tel
 tela
 telamon
 telamones
@@ -207455,7 +207423,6 @@ teñirtelo
 teñis
 teñiste
 teñisteis
-tfno
 ti
 tia
 tiaca
@@ -208320,7 +208287,6 @@ tisular
 tisulares
 tisuria
 tisurias
-tit
 tita
 titaba
 titabais
@@ -220709,7 +220675,6 @@ vodka
 vodkas
 voila
 voilas
-vol
 volaba
 volabais
 volabamos
@@ -221274,7 +221239,6 @@ voznemos
 voznen
 voznes
 vozno
-vtas
 vudu
 vudues
 vudus

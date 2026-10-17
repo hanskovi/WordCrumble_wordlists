@@ -18,6 +18,9 @@ Modified by ConceptCraft, 2026-10-12:
 - Only words of 2 to 9 letters; accents removed (á → a, ü → u) except ñ, which is kept.
 - Removed: words without a vowel; 2-letter words that are not Spanish words on their own; a list of
   abbreviations (e.g. dto, izq, sra, pta, etc, dpto, impr, incl, inst, coord, univ).
+- Removed by hand (2026-10-17), abbreviations written without a full stop: apdo, atte, avda, cia, cias, dcha, dchas,
+  dcho, gob, gral, hnas, hnos, izqda, izqdo, ldas, ltda, ltdas, ltdo, mtro, pbro, pdta, pdte, ppal, pral, ptas, rvdo,
+  sdad, sras, sres, srta, stas, tel, tfno, tit, vol, vtas.
 
 ## Correct spelling file
 **File:** `wordcrumble_display_ES.txt` (added 2026-10-13), made by ConceptCraft from the same source.

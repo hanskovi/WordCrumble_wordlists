@@ -21,6 +21,8 @@ OpenTaal is not involved in WordCrumble and does not endorse it.
   school types and the like); and some short words that are not Dutch words on their own.
 - Added by hand: at, va.
 - Removed by hand (2026-10-14): aa (in Dutch only a river name), hm, st.
+- Removed by hand (2026-10-17), abbreviations and non-words: afa, aki, apa, ata, blo, cli, cros, crue, dra, elo, epa,
+  feb, flo, glo, io, ju, ka, kcal, ki, loc, plu, sep, uk, zmok.
 
 ## Correct spelling file
 **File:** `wordcrumble_display_NL.txt` (added 2026-10-13), made by ConceptCraft from the same source.

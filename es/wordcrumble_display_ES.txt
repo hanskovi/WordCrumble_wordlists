@@ -15633,7 +15633,6 @@ chutarias	chutarías
 chute	chute / chuté
 chuteis	chutéis
 chuto	chuto / chutó
-cia	cía
 ciabamos	ciábamos
 ciabogais	ciabogáis
 ciabogara	ciabogara / ciabogará
@@ -15662,7 +15661,6 @@ ciariais	ciaríais
 ciariamos	ciaríamos
 ciarian	ciarían
 ciarias	ciarías
-cias	cías
 ciasemos	ciásemos
 cibercafe	cibercafé
 ciborg	cíborg
@@ -60322,7 +60320,6 @@ tisica	tísica
 tisicas	tísicas
 tisico	tísico
 tisicos	tísicos
-tit	tít
 titabamos	titábamos
 titais	titáis
 titan	titan / titán
